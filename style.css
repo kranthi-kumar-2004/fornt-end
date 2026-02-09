@@ -1,4 +1,5 @@
 body{
     background-color:#b28282;
     display:flex;
+    cursor:pointer;
 }
